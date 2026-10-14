@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Stelio 👋
 
-<!--
-**s-laucci/s-laucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Double Bachelor's student in **Mathematics and Physics** at **Université Paris-Saclay**, aiming for a master's degree in **quantitative finance**.
 
-Here are some ideas to get you started:
+I use this GitHub to share the quantitative finance projects I build as I learn: derivatives pricing, Monte Carlo methods and systematic trading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background
+- **Université Paris-Saclay (UVSQ)**: Double Bachelor's in Mathematics and Physics, selective track (2025 – 2028). First-year average: 17.9/20
+- **European Baccalaureate** (2025): 92.5%, highest distinction. Mathematics 9.70/10, Physics 9.68/10
+- **Kangourou des Mathématiques** (2023): ranked 22nd out of 11,459 participants (top 0.2%)
+
+## 📚 Currently learning
+- Probability and python applied to quantitative finance
+- Building up towards stochastic calculus
+
+## 🌍 Languages
+French (native) · English (fluent) · Spanish (working proficiency) · Dutch (basic)
+
+## 📫 Contact
+- Email: steliolaucci@gmail.com
